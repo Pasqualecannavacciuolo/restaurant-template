@@ -1,4 +1,4 @@
-### <img width="36" height="36" src="https://img.icons8.com/color/48/react-native.png" alt="react"/> <img width="36" height="36" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/> <img width="36" height="36" src="https://img.icons8.com/color/48/vite.png" alt="vite"/> <img width="36" height="36" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/> <img width="64" height="36" src="https://reactrouter.com/_brand/react-router-mark-color.png" alt="react_router"/>
+### <img width="36" height="36" src="https://img.icons8.com/color/48/react-native.png" alt="react"/> <img width="36" height="36" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/> <img width="36" height="36" src="https://img.icons8.com/color/48/vite.png" alt="vite"/> <img width="36" height="36" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/> <img width="48" height="36" src="https://reactrouter.com/_brand/react-router-mark-color.png" alt="react_router"/>
 
 # React + TypeScript + Vite + TailwindCSS + React Router
 
