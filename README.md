@@ -1,8 +1,7 @@
 # React + TypeScript + Vite + TailwindCSS + React Router DOM
 
-# React + TypeScript + Vite + TailwindCSS + React Router DOM
-
-## ❗==Non devi fare altro che copiare questa cartella e iniziare a lavorare i passaggi qui sotto inseriti servono solo come promemoria di quello fatto==
+<img src="./node_modules/super-tiny-icons/images/svg/github.svg" />
+## ❗Non devi fare altro che copiare questa cartella e iniziare a lavorare i passaggi qui sotto inseriti servono solo come promemoria di quello fatto
 
 Questo template serve per velocizzare il processo di creazione di applicativi con il seguente stack tecnologico
 
