@@ -1,6 +1,6 @@
 # React + TypeScript + Vite + TailwindCSS + React Router DOM
 
-<img src="./node_modules/super-tiny-icons/images/svg/github.svg" />
+<img src="https://camo.githubusercontent.com/39d8cf29263594898012e20b654c95d4337cca642e48574366a993c6d0f8a742/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f72656163742e737667" />
 ## ❗Non devi fare altro che copiare questa cartella e iniziare a lavorare i passaggi qui sotto inseriti servono solo come promemoria di quello fatto
 
 Questo template serve per velocizzare il processo di creazione di applicativi con il seguente stack tecnologico
