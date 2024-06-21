@@ -154,3 +154,18 @@
 .general-sans-bold {
   font-family: "General Sans Bold";
 }
+
+.btn-padding {
+  padding: 9px 19px;
+}
+
+.btn {
+  background-color: #3c3c3c;
+  color: white;
+}
+
+.btn-ghost {
+  background-color: transparent;
+  color: #3c3c3c;
+  border: 1px solid #3c3c3c;
+}
