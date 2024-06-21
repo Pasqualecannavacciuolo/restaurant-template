@@ -25,7 +25,7 @@ export default function MobileDrawer({
       </button>
       <div className="flex flex-col justify-center items-center space-y-4">
         <Link
-          className="text-3xl prompt-light"
+          className="text-3xl general-sans-regular"
           to=""
           onClick={() => {
             onClose();
@@ -35,7 +35,7 @@ export default function MobileDrawer({
           Home
         </Link>
         <Link
-          className="text-3xl prompt-light"
+          className="text-3xl general-sans-regular"
           to=""
           onClick={() => {
             onClose();
@@ -45,7 +45,7 @@ export default function MobileDrawer({
           Menu
         </Link>
         <Link
-          className="text-3xl prompt-light"
+          className="text-3xl general-sans-regular"
           to=""
           onClick={() => {
             onClose();

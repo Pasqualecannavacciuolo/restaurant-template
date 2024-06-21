@@ -9,7 +9,7 @@ export default function LogoLink({
     <div className="text-center sm:mb-0">
       <Link to="" onClick={() => scrollToHome()}>
         <span className="kalam-bold mr-1 lg:text-xl">the</span>
-        <span className="lg:text-2xl">MENU</span>
+        <span className="lg:text-2xl general-sans-light">MENU</span>
       </Link>
     </div>
   );
