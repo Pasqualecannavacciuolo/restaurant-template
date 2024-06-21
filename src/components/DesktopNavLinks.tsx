@@ -13,15 +13,23 @@ const DesktopNavLinks: React.FC<DesktopNavLinksProps> = ({
   scrollToPrenota,
 }) => {
   return (
-    <div className="hidden xl:flex flex-row gap-5 justify-center">
-      <Link className="text-xl prompt-light" to="/" onClick={scrollToHome}>
+    <div className="hidden xl:flex flex-row gap-5 justify-center mt-1">
+      <Link
+        className="text-xl general-sans-light"
+        to="/"
+        onClick={scrollToHome}
+      >
         Home
       </Link>
-      <Link className="text-xl prompt-light" to="/menu" onClick={scrollToMenu}>
+      <Link
+        className="text-xl general-sans-light"
+        to="/menu"
+        onClick={scrollToMenu}
+      >
         Menu
       </Link>
       <Link
-        className="text-xl prompt-light"
+        className="text-xl general-sans-light"
         to="/prenota"
         onClick={scrollToPrenota}
       >
