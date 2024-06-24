@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 function Home() {
   return (
-    <div className="h-screen xl:mt-48 px-4 flex flex-col justify-center items-center">
+    <div className="px-4 mt-11 xl:flex xl:flex-col xl:justify-center xl:items-center">
       <div className="flex flex-col gap-5 xl:gap-48 xl:flex-row items-center w-full max-w-screen-xl">
         <div className="flex justify-start xl:w-[700px]">
           <motion.div

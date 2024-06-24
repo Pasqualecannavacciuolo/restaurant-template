@@ -4,15 +4,9 @@ import { Link } from "react-router-dom";
 export default function MobileDrawer({
   isOpen,
   onClose,
-  scrollToHome,
-  scrollToMenu,
-  scrollToPrenota,
 }: {
   isOpen: boolean;
   onClose: () => void;
-  scrollToHome: () => void;
-  scrollToMenu: () => void;
-  scrollToPrenota: () => void;
 }) {
   return (
     <div
@@ -20,37 +14,24 @@ export default function MobileDrawer({
         isOpen ? "translate-x-0" : "translate-x-full"
       }`}
     >
-      <button className="absolute right-3 top-6 p-2" onClick={onClose}>
+      <button className="absolute right-7 top-4 p-3" onClick={onClose}>
         <X className="w-5 h-5" />
       </button>
       <div className="flex flex-col justify-center items-center space-y-4">
-        <Link
-          className="text-3xl general-sans-regular"
-          to=""
-          onClick={() => {
-            onClose();
-            scrollToHome();
-          }}
-        >
+        <Link className="text-3xl hover:font-semibold" to="/" onClick={onClose}>
           Home
         </Link>
         <Link
-          className="text-3xl general-sans-regular"
-          to=""
-          onClick={() => {
-            onClose();
-            scrollToMenu();
-          }}
+          className="text-3xl hover:font-semibold"
+          to="/menu"
+          onClick={onClose}
         >
           Menu
         </Link>
         <Link
-          className="text-3xl general-sans-regular"
-          to=""
-          onClick={() => {
-            onClose();
-            scrollToPrenota();
-          }}
+          className="text-3xl hover:font-semibold"
+          to="/prenota"
+          onClick={onClose}
         >
           Prenota
         </Link>
