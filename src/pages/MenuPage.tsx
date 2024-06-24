@@ -51,7 +51,7 @@ function MenuPage() {
                 Salmone alla griglia servito su crostini di grano saraceno e
                 verdure di stagione biologiche.
               </p>
-              <p className="general-sans-regular">7,99$</p>
+              <p className="general-sans-regular">7,99€</p>
             </div>
           </div>
           {/* CODICE SECONDO ANTIPASTO */}
@@ -69,7 +69,7 @@ function MenuPage() {
                 Finely chopped and kissed with citrus and herbs/Dijon mustard
                 and capers/soy sauce and ginger.
               </p>
-              <p className="general-sans-regular">13$</p>
+              <p className="general-sans-regular">13€</p>
             </div>
           </div>
           {/* CODICE TERZO ANTIPASTO */}
@@ -87,7 +87,7 @@ function MenuPage() {
                 Duck or goose liver dish, seasoned with salt and pepper, made
                 from force-fed birds.
               </p>
-              <p className="general-sans-regular">22$</p>
+              <p className="general-sans-regular">22€</p>
             </div>
           </div>
           {/* CODICE QUARTO ANTIPASTO */}
@@ -105,7 +105,7 @@ function MenuPage() {
                 French salad with fresh/cooked veggies, tuna, eggs, olives,
                 anchovies, and vinaigrette.
               </p>
-              <p className="general-sans-regular">17$</p>
+              <p className="general-sans-regular">17€</p>
             </div>
           </div>
         </div>
